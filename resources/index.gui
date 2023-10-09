@@ -1,0 +1,16 @@
+<svg>
+  <image href="background/background.png" width="300" height="300" />
+  <image id="digit1"/>
+  <image id="digit2"/>
+  <image id="digit3"/>
+  <image id="digit4"/>
+  <image id="sec1"/>
+  <image id="sec2"/>
+  <image id="today"/>
+  <image id="month"/>
+  <image id="bat"/>
+  <image id="year1"/>
+  <image id="year2"/>
+  <image id="day1"/>
+  <image id="day2"/>
+</svg>

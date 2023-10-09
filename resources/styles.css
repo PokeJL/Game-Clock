@@ -1,0 +1,94 @@
+.background {
+  viewport-fill: blue;
+}
+
+#digit1 {
+  width: "84";
+  height: "105";
+  x: "10";
+  y: "15";
+}
+
+#digit2 {
+  width: "84";
+  height: "105";
+  x: "70";
+  y: "15";
+}
+
+#digit3 {
+  width: "84";
+  height: "105";
+  x: "10";
+  y: "120";
+}
+
+#digit4 {
+  width: "84";
+  height: "105";
+  x: "70";
+  y: "120";
+}
+
+#sec1 {
+  width: "30";
+  height: "38";
+  x: "145";
+  y: "175";
+}
+
+#sec2 {
+  width: "30";
+  height: "38";
+  x: "168";
+  y: "175";
+}
+
+#today {
+  width: "198";
+  height: "66";
+  x: "52";
+  y: "225";
+}
+
+#month {
+  width: "125";
+  height: "119";
+  x: "165";
+  y: "70";
+}
+
+#bat {
+  width: "45";
+  height: "23";
+  x: "243";
+  y: "6";
+}
+
+#year1 {
+  width: "21";
+  height: "31";
+  x: "230";
+  y: "140";
+}
+
+#year2 {
+  width: "21";
+  height: "31";
+  x: "253";
+  y: "140";
+}
+
+#day1 {
+  width: "13";
+  height: "18";
+  x: "213";
+  y: "253";
+}
+
+#day2 {
+  width: "13";
+  height: "18";
+  x: "225";
+  y: "253";
+}

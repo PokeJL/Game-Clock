@@ -1,0 +1,22 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~4.3.0"
+  },
+  "fitbit": {
+    "appUUID": "880141f9-9549-4092-9659-b03153380715",
+    "appType": "clockface",
+    "appDisplayName": "Game Clock",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "mira"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "Game Clock"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}
